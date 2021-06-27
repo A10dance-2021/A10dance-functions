@@ -1,6 +1,6 @@
 # a10dance-functions
 
-a10dance-functions uses Docker, Python and Flask to create images that can be built on Google Cloud Build containers and then deployed as web service endpoints using Google Cloud Run. <br>
+A10dance-functions uses Docker, Python and Flask to create images that can be built on Google Cloud Build containers and then deployed as web service endpoints using Google Cloud Run. <br>
 
 Live Wep API endpoints deployed with documentation written at https://hackmd.io/@KfflL-NrQia-oTecv4EItQ/SJpDEQQ2O
 
