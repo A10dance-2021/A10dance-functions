@@ -35,3 +35,6 @@ Output - json
 * `student_id` : `array of strings`
 * `student_name` : `array of strings`
 * `bounding_boxes` : `array of arrays`
+
+### Software Architecture
+![Orbital Architecture](https://user-images.githubusercontent.com/35002411/123557232-5e42de80-d7c2-11eb-97df-e7e4a8648fca.png)
